@@ -5,7 +5,7 @@
 # Compare Cart IQ- A Price Comparing Website
 
 
-CompareCart IQ is a web-based price comparison platform developed using Django, Python, HTML, CSS, and JavaScript. 
+CompareCart IQ is a web-based price comparison platform developed using Django, Python, HTML, CSS, and JavaScript.
 
 
 ## Tables of Content
